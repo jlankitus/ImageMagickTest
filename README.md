@@ -1,7 +1,7 @@
 # ImageMagickTest
 Test using ImageMagick .Net Wrapper in Unity for Mac OSX
 
-## Working Setup Replication Steps:
+## Working Setup Replication Steps (Already done in Master):
 
 - Download ImageMagick 7.14.1 from Nuget.
 - Import dll and xml file from netstandard20 folder
