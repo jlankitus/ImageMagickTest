@@ -11,7 +11,7 @@ Test using ImageMagick .Net Wrapper in Unity for Mac OSX
 ## Branch Status:
 
 ### Master
-Works using Unity 2019.1.10, should work up to 2019.1.14. Uses ImageMagick 7.14.1
+Works using Unity 2019.1.10 to 2019.1.14. Uses ImageMagick 7.14.1
 The dlls are all found in the plugins folder, and were dragged there from the packages folder after downloading via nuget.
 The Mac dll that in later version cannot be found must have its extension changed from .dylib to .bundle for this to work properly (Saved like this in repo).
 
